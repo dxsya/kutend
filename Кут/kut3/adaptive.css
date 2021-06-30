@@ -9,13 +9,14 @@
         width: 36%;
     }
     .line {
-        width: 99%;
+        width:  99%;
     }
     .slider {
         width: 70%;
     }
-    option {
-        display: none;
+    datalist {
+        width: 70%;
+        font-size: 13px;
     }
 }
 
@@ -43,8 +44,8 @@
     .slider {
         width: 70%;
     }
-    option {
-        display: none;
+    datalist {
+        width: 70%;
     }
 }
 @media screen and (max-width:769px) {
@@ -63,7 +64,7 @@
         padding: 0 0 8% 0;
     }
     .line {
-        width: 100%;
+        width: 99%
     }
     .flat-block {
         margin: auto;
@@ -71,8 +72,8 @@
     .slider {
         width: 70%;
     }
-    option {
-        display: none;
+    datalist {
+        width: 70%;
     }
 }
 @media screen and (max-width:992px) {
@@ -92,7 +93,7 @@
     .slider {
         width: 70%;
     }
-    option {
-        display: none;
+    datalist {
+        width: 70%;
     }
 }
