@@ -62,12 +62,19 @@ body {
     color: black;
     margin-bottom: 18px;
 }
+.button:hover {
+    background-color: #fffd8b
+}
+.button:active {
+    transform: translateY(4px);
+    box-shadow: 1px 1px 10px #000000;
+}
 .slider {
     color: yellow;
     background-color: yellow;
     width: 39%;
 }
-.percent {
+.percent {       
     font-size: 10px;
     word-spacing: 18px;
 }
