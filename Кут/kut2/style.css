@@ -82,7 +82,7 @@ datalist {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 460px;
+    width: 40%;
     margin: 0 auto;
     margin-bottom: 20px;
 }
